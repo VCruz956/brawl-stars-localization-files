@@ -1,6 +1,4 @@
 # Brawl Stars Language Localization Files
-
-## About
 This repository contains all language localization files for Brawl Stars. These files were extracted from [tailsjs's brawl-stars-assets repository](https://github.com/tailsjs/brawl-stars-assets) using Git Sparse Checkout to isolate only the localization-related data.
 
 All credits for providing and maintaining the assets database go to **tailsjs**.
