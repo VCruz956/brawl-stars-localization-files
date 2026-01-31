@@ -20,8 +20,8 @@ git checkout master
 
 ## References
 These are the materials consulted for this project:
-Brawl Stars Assets Database - https://github.com/tailsjs/brawl-stars-assets
-Understanding shallow clones in Git - https://graphite.com/guides/git-shallow-clone
-How to Use "Sparse Checkout" to Manage Large Git Repositories - https://www.git-tower.com/learn/git/faq/git-sparse-checkout
-AleixMT's answer on Sparse Checkout (GitHub Community) - https://github.com/orgs/community/discussions/102639#discussioncomment-8293210
+* Brawl Stars Assets Database - https://github.com/tailsjs/brawl-stars-assets
+* Understanding shallow clones in Git - https://graphite.com/guides/git-shallow-clone
+* How to Use "Sparse Checkout" to Manage Large Git Repositories - https://www.git-tower.com/learn/git/faq/git-sparse-checkout
+* AleixMT's answer on Sparse Checkout (GitHub Community) - https://github.com/orgs/community/discussions/102639#discussioncomment-8293210
 
